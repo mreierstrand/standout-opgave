@@ -1,0 +1,13 @@
+Mine tanker og overvejelser i forhold til beslutninger jeg har truffet:
+
+- Jeg har tilladt mig at ændre designet en smule, således at jeg bruger labels i contact-formen,
+så vigtig information ikke forsvinder i inputfields'ne så snart brugeren klikker på et given inputfield.
+
+- Jeg har ændret navbaren, så der faktisk er nogle menupunkter, der giver mening
+
+- Jeg har gjort siden navigerbar med tasten "tab" & shift-"tab", til folk med handicap f.eks personer uden mus
+
+- Jeg har genbrugt white-split-section. Dette er måske ikke best-practice, men det er jeg godt klar over. Jeg har også lært at det, der kan genbruges, skal genbruges.
+
+- Jeg ville nok ændre sproget til enten dansk eller engelsk
+  "<html lang="en">" kan forvirre browsere og screenreaders, hvis der så er tekst på dansk og omvendt.
